@@ -2,8 +2,6 @@
 
  This project implements a robust form submission system that handles eventual consistency, network failures, and duplicate prevention.
 
- # Deployed Link: https://eventually-consistent-form-ochre.vercel.app/
-
 ## Features
 
 - **Eventual Consistency**: Handles delayed API responses while keeping the user informed.
